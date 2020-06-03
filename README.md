@@ -2,7 +2,8 @@
 
 Coder, gamer, geek, dad, movie buff and Open Source Community Manager at @github (@atom, @electron, @desktop, @cli, et al).
 
-* [Check my writings and collected links about Community Management!](https://github.com/lee-dohm/community-manager)
+* [Studies in Community](https://github.community/c/github-original-series/studies-in-community/30) &mdash; a series of articles I wrote about Community Management for the [GitHub Support Community](https://github.community)
+* [My full list of writings and interesting links about Community Management](https://github.com/lee-dohm/community-manager)
 * [General Blog](https://www.lee-dohm.com)
 
 ## Current Projects
