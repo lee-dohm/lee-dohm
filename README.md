@@ -1,6 +1,4 @@
-# Lee Dohm
-
-## About
+# About
 
 Coder, gamer, geek, dad, movie buff and Open Source Community Manager at @github (@atom, @electron, @desktop, @cli, et al).
 
