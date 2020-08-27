@@ -2,6 +2,7 @@
 
 Coder, gamer, geek, dad, movie buff and Open Source Community Manager at @github (@atom, @electron, @desktop, @cli, et al).
 
+* **Pronouns:** he/him
 * [More than you probably wanted to know](https://www.lee-dohm.com/about/)
 
 ## Writings
