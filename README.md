@@ -13,7 +13,7 @@ Coder, gamer, geek, dad, movie buff and Open Source Community Manager at @github
 
 ## Current Projects
 
-* I've been building [GitHub Actions](https://github.com/lee-dohm?tab=repositories&q=topic%3Aaction&type=&language=) for myself and my team to use
+* I've been building [GitHub Actions](https://github.com/lee-dohm?tab=repositories&q=topic%3Aaction&type=source&language=) for myself and my team to use
 * My ever evolving [dotfiles](https://github.com/lee-dohm/dotfiles)
 
 ## Stuff I've Built
