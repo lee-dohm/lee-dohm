@@ -15,6 +15,7 @@ Coder, gamer, geek, dad, movie buff and Open Source Community Manager at @github
 
 * I've been building [GitHub Actions](https://github.com/lee-dohm?tab=repositories&q=topic%3Aaction&type=source&language=) for myself and my team to use
 * My ever evolving [dotfiles](https://github.com/lee-dohm/dotfiles)
+* [Custom firmware](https://github.com/lee-dohm/keyboard-firmware) for my collection of mechanical keyboards for every occasion
 
 ## Public Stuff I've Built
 
