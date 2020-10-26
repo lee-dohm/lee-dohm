@@ -13,7 +13,8 @@ Coder, gamer, geek, dad, movie buff and Open Source Community Manager at @github
 
 ## Current Projects
 
-* I've been building [GitHub Actions](https://github.com/lee-dohm?tab=repositories&q=topic%3Aaction&type=source&language=) for myself and my team to use
+* [GitHub Actions](https://github.com/lee-dohm?tab=repositories&q=topic%3Aaction&type=source&language=) for myself and my team to use
+* [Discourse extensions and utilities](https://github.com/lee-dohm?tab=repositories&q=topic%3Adiscourse&type=source&language=) mostly for use with the [GitHub Support Community](https://github.community)
 * My ever evolving [dotfiles](https://github.com/lee-dohm/dotfiles)
 * [Custom firmware](https://github.com/lee-dohm/keyboard-firmware) for my collection of mechanical keyboards for every occasion
 
