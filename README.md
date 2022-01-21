@@ -1,6 +1,6 @@
 # About
 
-Coder, gamer, geek, dad, movie buff and Open Source Content Strategist at @github.
+Coder, gamer, geek, dad, movie buff and Open Source Community Manager formerly at GitHub.
 
 * **Pronouns:** he/him/his
 * [More than you probably wanted to know](https://www.lee-dohm.com/about/)
