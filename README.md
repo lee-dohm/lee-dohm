@@ -20,7 +20,6 @@ Coder, gamer, geek, dad, movie buff and Open Source Community Manager formerly a
 
 * [GitHub Actions](https://github.com/lee-dohm?tab=repositories&q=topic%3Aaction&type=source&language=) for myself and my team to use
 * [Discourse extensions and utilities](https://github.com/lee-dohm?tab=repositories&q=topic%3Adiscourse&type=source&language=) mostly for use with the [GitHub Support Community](https://github.community)
-* [Atom Tweaks website](https://www.atom-tweaks.com)
 
 ## Other stuff I'm proud of contributing to
 
