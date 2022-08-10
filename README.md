@@ -7,7 +7,7 @@ Coder, gamer, geek, dad, movie buff and Open Source Community Manager formerly a
 
 ## Writings
 
-* [Studies in Community](https://github.community/c/github-original-series/studies-in-community/30) &mdash; a series of articles I wrote about Community Management for the [GitHub Support Community](https://github.community)
+* [Studies in Community](https://github.com/lee-dohm/community-manager/tree/main/studies-in-community) &mdash; a series of articles I wrote about Community Management for the GitHub Support Community
 * [My full list of writings and interesting links about Community Management](https://github.com/lee-dohm/community-manager)
 * [General Blog](https://www.lee-dohm.com)
 
